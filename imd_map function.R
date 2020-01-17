@@ -75,3 +75,7 @@ imd_map<- function(x){
                                keywidth = unit(5, units = "mm")))
   
 }
+
+
+#example: Salford map
+imd_map("Salford")
