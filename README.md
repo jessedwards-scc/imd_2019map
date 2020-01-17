@@ -1,4 +1,4 @@
-# imd_2019map
+# IMD 2019 Map
 This code contains a function to produce IMD 2019 maps for any local authority in England. The code inside the function is courtesy of Trafford Data Lab (Thank you).
 
 You can view the map output of the code here: https://www.trafforddatalab.io/recipes/importing_data/IMD.html
